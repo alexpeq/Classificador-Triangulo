@@ -1,0 +1,39 @@
+* {
+    outline: none;
+}
+
+body {
+    padding: 25px;
+    margin: 0px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.lado1 {
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.lado2 {
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.lado3 {
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.botao {
+    padding: 35px;
+    margin: 0px;
+    font-family: sans-serif;
+    text-align: center;
+}
